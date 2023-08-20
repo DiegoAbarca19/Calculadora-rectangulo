@@ -1,0 +1,15 @@
+C:\Users\KO15428\Desktop\Calculadora rectangulo\Calculadora rectangulo\bin\Debug\Calculadora rectangulo.exe.config
+C:\Users\KO15428\Desktop\Calculadora rectangulo\Calculadora rectangulo\bin\Debug\Calculadora rectangulo.exe
+C:\Users\KO15428\Desktop\Calculadora rectangulo\Calculadora rectangulo\bin\Debug\Calculadora rectangulo.pdb
+C:\Users\KO15428\Desktop\Calculadora rectangulo\Calculadora rectangulo\obj\Debug\Calculadora rectangulo.csproj.AssemblyReference.cache
+C:\Users\KO15428\Desktop\Calculadora rectangulo\Calculadora rectangulo\obj\Debug\MainWindow.g.cs
+C:\Users\KO15428\Desktop\Calculadora rectangulo\Calculadora rectangulo\obj\Debug\App.g.cs
+C:\Users\KO15428\Desktop\Calculadora rectangulo\Calculadora rectangulo\obj\Debug\Calculadora rectangulo_MarkupCompile.cache
+C:\Users\KO15428\Desktop\Calculadora rectangulo\Calculadora rectangulo\obj\Debug\Calculadora rectangulo_MarkupCompile.lref
+C:\Users\KO15428\Desktop\Calculadora rectangulo\Calculadora rectangulo\obj\Debug\MainWindow.baml
+C:\Users\KO15428\Desktop\Calculadora rectangulo\Calculadora rectangulo\obj\Debug\Calculadora rectangulo.g.resources
+C:\Users\KO15428\Desktop\Calculadora rectangulo\Calculadora rectangulo\obj\Debug\Calculadora_rectangulo.Properties.Resources.resources
+C:\Users\KO15428\Desktop\Calculadora rectangulo\Calculadora rectangulo\obj\Debug\Calculadora rectangulo.csproj.GenerateResource.cache
+C:\Users\KO15428\Desktop\Calculadora rectangulo\Calculadora rectangulo\obj\Debug\Calculadora rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\KO15428\Desktop\Calculadora rectangulo\Calculadora rectangulo\obj\Debug\Calculadora rectangulo.exe
+C:\Users\KO15428\Desktop\Calculadora rectangulo\Calculadora rectangulo\obj\Debug\Calculadora rectangulo.pdb
